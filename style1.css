@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    font-size: 23px;
+    color:white;
+}
+ul {
+    list-style-type: none;
+    overflow-x: auto;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  
+  .active {
+    background-color: #008000;
+  }
+  
+  li a:hover {
+    background-color: #800080;
+  }
+  
+  p1 {
+    font-size: 30px;
+  }
+  h3{
+    background-color:#ffffff;
+    color:#ff0000;
+    }
+    nav {
+      gap:20px;
+      display: flex;
+      justify-content: space-between;
+      background-color: #444;
+      padding: 10px;
+    }
+   .h2{
+      background-image: url(../IMAGES/pump2.jpg);
+      color: black;
+      text-align: center;
+      font-size:20px;
+      background-size: cover;
+      padding:80px;
+    }
+    h2{
+      color: yellowgreen;
+      text-align: center;
+
+    }
+    img{
+      height:600;
+      width:600;
+    }

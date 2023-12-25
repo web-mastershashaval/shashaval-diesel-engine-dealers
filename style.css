@@ -1,0 +1,62 @@
+body{
+  color:white;
+  font-size:large;
+  background-color: black;
+}
+  .h2 {
+    font-size: 48px;
+    padding: 200px 100px;  
+  }
+  
+  ul {
+    
+    list-style-type: none;
+    overflow-x: auto;
+    background-color: #333;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  
+  .active {
+    background-color: green;
+  }
+  
+  li a:hover {
+    background-color: purple;
+  }
+  
+  p1 {
+    font-size: 30px;
+    position:bottom;
+  }
+  
+ 
+  header {
+    background-color: #333;
+    padding: 10px;
+    text-align: left;
+  }
+
+  #logo {
+    max-height: 50px; /* Adjust the height as needed */
+  }
+nav {
+  gap: 20px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #444;
+  padding: 10px;
+}
+
