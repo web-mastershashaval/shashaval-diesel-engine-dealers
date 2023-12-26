@@ -37,7 +37,7 @@ body{
     background-color: purple;
   }
 
-p1{
+.p1{
      width:85vmin;
     position:absolute;
     top: 50%;
