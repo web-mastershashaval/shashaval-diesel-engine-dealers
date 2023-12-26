@@ -46,8 +46,9 @@ p1{
     border-radius: 8px;
     box-shadow: 10px 25px 28px rgba(0, 0,0,3);
     overflow: hidden;
-    background-image:url("testbench.jpg");
+    background-image:url("testbench.jpg  ");
     text-align:center;
+    transform:translate(-50%,50%);
 }
   p2 {
     font-size: 30px;
