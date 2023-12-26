@@ -36,8 +36,20 @@ body{
   li a:hover {
     background-color: purple;
   }
-  
-  p1 {
+
+p1{
+     width:85vmin;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border:white;
+    border-radius: 8px;
+    box-shadow: 10px 25px 28px rgba(0, 0,0,3);
+    overflow: hidden;
+    background-image:url("testbench.jpg");
+}
+  p2 {
     font-size: 30px;
     position:bottom;
   }
