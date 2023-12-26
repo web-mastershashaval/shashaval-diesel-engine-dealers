@@ -2,7 +2,7 @@ body {
     background-color: black;
     font-size: 23px;
     color: white;
-
+    justify-content:center;
 }
 
 h2 {
@@ -47,10 +47,9 @@ li a:hover {
 }
 
 img {
-    width: 100px;
-    height: 100px;
-
-    border: 10px solid #ffff;
+    width: 300px;
+    height: 300px;
+    justify-content:center;
 }
 
 h4 {
