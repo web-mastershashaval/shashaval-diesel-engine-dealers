@@ -50,6 +50,7 @@ p1{
     text-align:center;
     transform:translate(-50%,50%);
     text-size:15px;
+    background-image:url("worker.jpg");
 }
   p2 {
     font-size: 30px;
