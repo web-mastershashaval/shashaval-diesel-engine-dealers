@@ -46,7 +46,6 @@ p1{
     border-radius: 8px;
     box-shadow: 10px 25px 28px rgba(0, 0,0,3);
     overflow: hidden;
-    background-image:url("testbench.jpg  ");
     padding:23px 40px;
     text-align:center;
     transform:translate(-50%,50%);
