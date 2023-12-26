@@ -58,6 +58,7 @@ ul {
 
     }
     img{
-      height:600;
-      width:600;
+      height:300px;
+      width:300px;
+      justify-content:center;  
     }
