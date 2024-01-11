@@ -48,10 +48,19 @@ p1{
     overflow: hidden;
     padding:23px 40px;
     text-align:center;
-    transform:translate(-50%,50%);
+    transform:translate(-50%,-50%);
     text-size:15px;
     background-image:url("worker.jpg");
+    margin-top:-50px;
 }
+.centering-dic{
+     margin: auto;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   p2 {
     font-size: 30px;
     position:bottom;
