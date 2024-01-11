@@ -89,7 +89,7 @@ body {
     /* Adjust the height as needed */
   }
   
-  .nav {
+  nav {
     gap: 20px;
     display: flex;
     justify-content: space-between;
