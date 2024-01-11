@@ -69,6 +69,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding:23px, 40px;
   }
   
   p3 {
